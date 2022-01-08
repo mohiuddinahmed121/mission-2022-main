@@ -49,3 +49,11 @@ h1{
 .illustrator3{
     background-color: rgb(192, 152, 78);
 }
+.footer-back{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.color{
+    color: orange;
+}
