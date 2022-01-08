@@ -57,3 +57,6 @@ h1{
 .color{
     color: orange;
 }
+.color-change{
+    color: rgb(47, 47, 134);
+}
